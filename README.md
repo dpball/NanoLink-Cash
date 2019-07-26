@@ -9,15 +9,15 @@
 
 ---
 
-### What is Nano?
+### What is Nano Link Cash?
 
-Nano is a digital payment protocol designed to be accessible and lightweight, with a focus on removing inefficiencies present in other cryptocurrencies. With ultrafast transactions and zero fees on a secure, green and decentralized network, this makes Nano ideal for everyday transactions.
+Nano Link Cash is a digital payment protocol and second layer ChainLINK network designed to be accessible and lightweight as well as proofed against sybil attacks, with a focus on removing inefficiencies present in other cryptocurrencies as well as providing a way for financial institutions to connect their APIs to smartcontracts. With ultrafast transactions and zero fees on a secure, green and decentralized network, this makes Nano ideal for everyday transactions.
 
 ---
 
 ### Guides & Documentation
 
-* [Whitepaper](https://nano.org/en/whitepaper)
+* [Whitepaper](https://smartkontrakt.io/whitepaper)
 * [Running a Node](https://docs.nano.org/running-a-node/overview/)
 * [Integration Guides](https://docs.nano.org/integration-guides/the-basics/)
 * [Command Line Interface](https://docs.nano.org/commands/command-line-interface/)
@@ -29,7 +29,7 @@ Other documentation details can be found at https://docs.nano.org.
 
 ### Links & Resources
 
-* [Nano Website](https://nano.org)
+* [Nano LINK Cash Website](https://smartkontrakt.io)
 * [Documentation](https://docs.nano.org)
 * [Discord Chat](https://chat.nano.org/)
 * [Reddit](https://reddit.com/r/nanocurrency)
